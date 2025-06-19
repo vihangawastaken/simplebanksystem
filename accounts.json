@@ -1,0 +1,16 @@
+[
+    {
+        "accountNumber": "1001",
+        "owner": "Vihanga",
+        "balance": 27000,
+        "expireDate": "2030-12-31",
+        "securityCode": "7890"
+    },
+    {
+        "accountNumber": "2002",
+        "owner": "Alex",
+        "balance": 2001,
+        "expireDate": "2030-12-31",
+        "securityCode": "7890"
+    }
+]
